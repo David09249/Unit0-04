@@ -1,0 +1,85 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{84, 119}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "english_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "English",
+          "uuid" : "E6367BDD-CFD6-420A-A6DF-2C9C1443BDF2",
+          "class" : "Button",
+          "name" : "english_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{361, 119}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "spanish_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "Español",
+          "uuid" : "12D7A3E7-1DE9-4BD0-B509-BC8A3F1C13F1",
+          "class" : "Button",
+          "name" : "spanish_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{226, 119}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "french_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "Français",
+          "uuid" : "ED4CFF7A-CE49-49D6-B8C9-E1DBF5B428B5",
+          "class" : "Button",
+          "name" : "french_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{200, 219}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "hello_world_label",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "0F78BD46-2B38-4F0A-93C8-D343B1660700",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {540, 540}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
